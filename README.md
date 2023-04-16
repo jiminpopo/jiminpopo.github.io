@@ -1,2 +1,1 @@
-## Welcome!
-## This is jiminpopo blog!
+## jiminpopo.github.io/blog
