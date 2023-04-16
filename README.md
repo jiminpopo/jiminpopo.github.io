@@ -1,1 +1,2 @@
-## jiminpopo.github.io/blog
+## jiminpopo.github.io
+
